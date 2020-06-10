@@ -1,0 +1,4 @@
+baseURL = "http://t-kotake9050"
+languageCode = "ja"
+title = "tkblog"
+theme = "tale-hugo"
