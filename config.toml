@@ -1,4 +1,4 @@
-baseURL = "http://t-kotake9050"
+baseURL = "http://t-kotake9050.github.io"
 languageCode = "ja"
 title = "tkblog"
 theme = "tale-hugo"

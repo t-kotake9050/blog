@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/t-kotake9050/t-kotake9050.github.io.git
